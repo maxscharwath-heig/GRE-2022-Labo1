@@ -1,0 +1,12 @@
+Le graphe du fichier "G500_1.txt" a 48 composantes fortement connexes.
+Le graphe du fichier "G500_2.txt" a 73 composantes fortement connexes.
+Le graphe du fichier "G500_3.txt" a 1 composantes fortement connexes.
+Le graphe du fichier "G1000_1.txt" a 48 composantes fortement connexes.
+Le graphe du fichier "G1000_2.txt" a 129 composantes fortement connexes.
+Le graphe du fichier "G1000_3.txt" a 6 composantes fortement connexes.
+Le graphe du fichier "G2000_1.txt" a 1 composantes fortement connexes.
+Le graphe du fichier "G2000_2.txt" a 367 composantes fortement connexes.
+Le graphe du fichier "G2000_3.txt" a 12 composantes fortement connexes.
+Le graphe du fichier "G4000_1.txt" a 598 composantes fortement connexes.
+Le graphe du fichier "G4000_2.txt" a 177 composantes fortement connexes.
+Le graphe du fichier "G4000_3.txt" a 2 composantes fortement connexes.
